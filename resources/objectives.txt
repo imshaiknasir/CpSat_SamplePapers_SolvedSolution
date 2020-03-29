@@ -1,0 +1,6 @@
+Open http://maps.google.com and write JUnit / WebDriver test for the following using Google Chrome:
+Search for your home address
+Print the address text that is displayed in the left frame
+Take screenshot of the page at this instant and save the image
+Click on direction and get direction from your office address to your home
+Display the first option distance and time suggested in eclipse console
