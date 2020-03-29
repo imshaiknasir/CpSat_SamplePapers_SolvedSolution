@@ -4,3 +4,10 @@ Print the address text that is displayed in the left frame
 Take screenshot of the page at this instant and save the image
 Click on direction and get direction from your office address to your home
 Display the first option distance and time suggested in eclipse console
+
+Question-5:
+Open https://letterboxd.com/ and write TestNG / WebDriver test for the following using Firefox browser: (12 points)
+Verify the page heading contains ‘Letterboxd’.
+Click on ‘PEOPLE’ from the top menu and capture a screenshot of the resulting page.
+Print the names of the reviewers under the ‘Popular this week’ section
+In the ‘Popular this week’ section, print the total number of reviews that the first reviewer has.

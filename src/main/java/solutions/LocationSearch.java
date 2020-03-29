@@ -1,4 +1,4 @@
-package testCases;
+package solutions;
 
 import java.io.File;
 import java.io.FileInputStream;
